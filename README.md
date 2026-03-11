@@ -60,6 +60,9 @@ All scheduled without manual intervention:
 - Docker & Docker Compose
 - Anthropic API key
 
+### ouput
+<img width="1430" height="854" alt="image" src="https://github.com/user-attachments/assets/53782361-dde9-4f6b-af07-f4552d9d9717" />
+
 ### 1. Clone and configure
 ```bash
 git clone <your-repo>
